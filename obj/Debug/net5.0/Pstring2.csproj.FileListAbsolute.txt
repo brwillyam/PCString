@@ -1,0 +1,16 @@
+C:\dev\Pstring2\obj\Debug\net5.0\Pstring2.csprojAssemblyReference.cache
+C:\dev\Pstring2\obj\Debug\net5.0\Pstring2.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Pstring2\obj\Debug\net5.0\Pstring2.AssemblyInfoInputs.cache
+C:\dev\Pstring2\obj\Debug\net5.0\Pstring2.AssemblyInfo.cs
+C:\dev\Pstring2\obj\Debug\net5.0\Pstring2.csproj.CoreCompileInputs.cache
+C:\dev\Pstring2\bin\Debug\net5.0\Pstring2.exe
+C:\dev\Pstring2\bin\Debug\net5.0\Pstring2.deps.json
+C:\dev\Pstring2\bin\Debug\net5.0\Pstring2.runtimeconfig.json
+C:\dev\Pstring2\bin\Debug\net5.0\Pstring2.runtimeconfig.dev.json
+C:\dev\Pstring2\bin\Debug\net5.0\Pstring2.dll
+C:\dev\Pstring2\bin\Debug\net5.0\ref\Pstring2.dll
+C:\dev\Pstring2\bin\Debug\net5.0\Pstring2.pdb
+C:\dev\Pstring2\obj\Debug\net5.0\Pstring2.dll
+C:\dev\Pstring2\obj\Debug\net5.0\ref\Pstring2.dll
+C:\dev\Pstring2\obj\Debug\net5.0\Pstring2.pdb
+C:\dev\Pstring2\obj\Debug\net5.0\Pstring2.genruntimeconfig.cache
